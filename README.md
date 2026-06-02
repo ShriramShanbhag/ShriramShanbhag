@@ -15,7 +15,7 @@ Most of my side projects fall into one of two categories:
 
 Take a pause from endless scrolling and recommendations. It provides the user a way to remove the visual cues that keep the user hooked to  the platform from showing up, so you can watch with purpose and leave without distraction.
 
-* Browser Store: [YouPause - make YouTube less addictive](https://chromewebstore.google.com/detail/youpause-make-youtube-les/bnmggfnfmifcnfmcnapefffankkjnhoi)
+* Web Store: [YouPause - make YouTube less addictive](https://chromewebstore.google.com/detail/youpause-make-youtube-les/bnmggfnfmifcnfmcnapefffankkjnhoi)
 * Source Code: [YouPause](https://github.com/ShriramShanbhag/YouPause)
 
 ### CollapseGPTMessages
@@ -23,14 +23,14 @@ Take a pause from endless scrolling and recommendations. It provides the user a 
 Easily collapse and expand ChatGPT messages for faster navigation. Save your scroll, focus on what matters. It keeps threads tidy by letting you collapse and expand individual messages — just like sections in a document.
 
 
-* Browser Store: [CollapseGPTMessages](https://chromewebstore.google.com/detail/collapsegptmessages/ckineninpkgjgonjfkgleapdpkppdmna)
+* Web Store: [CollapseGPTMessages](https://chromewebstore.google.com/detail/collapsegptmessages/ckineninpkgjgonjfkgleapdpkppdmna)
 * Source Code: [CollapseGPTMessages](https://github.com/ShriramShanbhag/CollapseGPTMessages)
 
 ### NoNextShort
 
 It lets you watch a YouTube Short you choose, but stops autoplay and swipe, so you don’t fall into an endless loop.
 
-* Browser Store: [NoNextShort – Stop Endless Scrolling in YouTube Shorts](https://chromewebstore.google.com/detail/nonextshort-%E2%80%93-stop-endles/faedocbkbgjgfidemaondenlimbedaif)
+* Web Store: [NoNextShort – Stop Endless Scrolling in YouTube Shorts](https://chromewebstore.google.com/detail/nonextshort-%E2%80%93-stop-endles/faedocbkbgjgfidemaondenlimbedaif)
 * Source Code: [NoNextShort](https://github.com/ShriramShanbhag/NoNextShort)
 
 ## Tech
