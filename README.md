@@ -9,7 +9,7 @@ Most of my side projects fall into one of two categories:
 * Improving existing interfaces and workflows
 * Reducing attention-farming patterns and engagement traps
 
-## Open Source Projects
+## Current Projects
 
 ### YouPause
 
