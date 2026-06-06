@@ -12,8 +12,7 @@ Most of my side projects fall into one of two categories:
 ## Current Projects
 
 ### ThreadMark
-The unified, privacy-focused bookmark manager for your AI conversations across all major platforms.
-
+Stop losing track of your best AI chats. ThreadMark centralizes your conversations from ChatGPT, Gemini, Claude, and more into a private, searchable library.
 * Web Store: **Coming Soon**
 * Source Code: [ThreadMark.ai](https://github.com/ShriramShanbhag/ThreadMark)
 
