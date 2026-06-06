@@ -15,7 +15,7 @@ Most of my side projects fall into one of two categories:
 The unified, privacy-focused bookmark manager for your AI conversations across all major platforms.
 
 * Web Store: **Coming Soon**
-* Source Code: [ThreadMark](https://github.com/ShriramShanbhag/ThreadMark/)
+* Source Code: [ThreadMark.ai](https://github.com/ShriramShanbhag/ThreadMark)
 
 ### YouPause
 
