@@ -11,6 +11,12 @@ Most of my side projects fall into one of two categories:
 
 ## Current Projects
 
+### ThreadMark
+The unified, privacy-focused bookmark manager for your AI conversations across all major platforms.
+
+* Web Store: **Coming Soon**
+* Source Code: [ThreadMark](https://github.com/ShriramShanbhag/ThreadMark/)
+
 ### YouPause
 
 Take a pause from endless scrolling and recommendations. It provides the user a way to remove the visual cues that keep the user hooked to  the platform from showing up, so you can watch with purpose and leave without distraction.
