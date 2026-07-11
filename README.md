@@ -11,7 +11,7 @@ Most of my side projects fall into one of two categories:
 
 ## Current Projects
 
-| Project | Description | Additional Links |
+| Source Code | Description | Additional Links |
 |---------|-------------|------------------|
 | **[ResumeTailor](https://github.com/ShriramShanbhag/resumeTailor)** | A premium, modern local web application that automatically extracts job descriptions from job posting URLs and tailors your resume to the target job description using AI (Gemini or NVIDIA APIs). |  |
 | **[ThreadMark](https://github.com/ShriramShanbhag/ThreadMark)** | Stop losing track of your best AI chats. ThreadMark centralizes your conversations from ChatGPT, Gemini, Claude, and more into a private, searchable library. | **Web Store:** Coming Soon |
