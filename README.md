@@ -2,7 +2,7 @@
 
 Frontend engineer with a focus on building thoughtful user experiences.
 
-Professionally, I work primarily with JavaScript and TypeScript across Angular, React, Lit, and Next.js. Outside of work, I build browser extensions that make the web more usable, less distracting, and more respectful of users' attention.
+Professionally, I work primarily with JavaScript and TypeScript across Angular, React, Lit, and Next.js. Outside of work, I build tools that make the web more usable, less distracting, and more respectful of users' attention.
 
 Most of my side projects fall into one of two categories:
 
@@ -10,6 +10,10 @@ Most of my side projects fall into one of two categories:
 * Reducing attention-farming patterns and engagement traps
 
 ## Current Projects
+
+### ResumeTailor 
+A premium, modern local web application that automatically extracts job descriptions from job posting URLs and tailors your resume to the target job description using AI (Gemini or NVIDIA APIs).
+* Source Code [ResumeTailor](https://github.com/ShriramShanbhag/resumeTailor)
 
 ### ThreadMark
 Stop losing track of your best AI chats. ThreadMark centralizes your conversations from ChatGPT, Gemini, Claude, and more into a private, searchable library.
