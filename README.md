@@ -9,6 +9,8 @@ Most of my side projects fall into one of two categories:
 * Improving existing interfaces and workflows
 * Reducing attention-farming patterns and engagement traps
 
+## Current Projects
+
 | Project | Description | Additional Links |
 |---------|-------------|------------------|
 | **[ResumeTailor](https://github.com/ShriramShanbhag/resumeTailor)** | A premium, modern local web application that automatically extracts job descriptions from job posting URLs and tailors your resume to the target job description using AI (Gemini or NVIDIA APIs). |  |
