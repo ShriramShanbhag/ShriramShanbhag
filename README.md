@@ -2,7 +2,7 @@
 
 Senior Frontend engineer with a focus on building thoughtful user experiences.
 
-Professionally, I work primarily with JavaScript and TypeScript across Angular, React, Lit, and Next.js. Outside of work, I build tools that make the web more usable, less distracting, and more respectful of users' attention.
+Professionally, I work primarily with JavaScript and TypeScript across Angular, React, Lit, and Next.js. Outside of work, I build tools that make the web more usable, less distracting, and more respectful of users' attention. Off late, I have also started exploration on building applications that use LLMs to solve very specific problems.  
 
 Most of my side projects fall into one of two categories:
 
